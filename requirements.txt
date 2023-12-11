@@ -26,6 +26,7 @@ jsonschema==4.20.0
 jsonschema-specifications==2023.11.1
 kiwisolver==1.4.5
 lxml==4.9.3
+librosa==0.10.1
 Markdown==3.5.1
 markdown-it-py==3.0.0
 markdownlit==0.0.7
